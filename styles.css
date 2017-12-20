@@ -6,3 +6,7 @@ h1 {
 	background: #aaaaff;
 	color: #777777;
 }
+
+body {
+	background-image: image('project0.png');
+}
